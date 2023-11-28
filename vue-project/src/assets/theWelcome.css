@@ -1,0 +1,39 @@
+table {
+    margin: 10px;
+}
+
+th,
+td {
+    padding: 15px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.trContent:hover {background-color: gray;}
+
+.inputDiv {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.buttonAdd {
+    margin: 10px;
+    width: 95%;
+    height: 30px;
+    background-color: darksalmon;
+    color: white;
+}
+
+.buttonFunction {
+    margin: 10px;
+}
+
+.buttonUpdate {
+    margin: 10px;
+    width: 95%;
+    height: 30px;
+    background-color: rgb(167, 122, 233);
+    color: white;
+}
